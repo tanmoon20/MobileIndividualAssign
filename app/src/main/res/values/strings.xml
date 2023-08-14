@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MobileIndividual</string>
+    <string name="breakdown_title">\Bill\nBreak-down</string>
+    <string name="equal_title">\Equal\nBreak-down</string>
+    <string name="custom_title">\Custom\nBreak-down</string>
+    <string name="history_title">\VIEW\nBILL HISTORY</string>
+    <string name="invalid">N/A</string>
+
+    <string-array name="type">
+        <item>Equal</item>
+        <item>Percentage</item>
+        <item>Ratio</item>
+        <item>Amount</item>
+    </string-array>
+
+    <string-array name="type0">
+        <item>Equal</item>
+    </string-array>
+
+    <string-array name="type1">
+        <item>Percentage</item>
+    </string-array>
+
+    <string-array name="type12">
+        <item>Percentage</item>
+        <item>Ratio</item>
+    </string-array>
+
+    <string-array name="type2">
+        <item>Ratio</item>
+    </string-array>
+
+    <string-array name="type3">
+        <item>Amount</item>
+    </string-array>
+
+
+</resources>
